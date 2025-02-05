@@ -38,7 +38,6 @@ python3 quotes.py
 ### INSTALL LIB .
 
 ```bash
-# via PyPI
 pip install cloudscraper 
 ```
 
