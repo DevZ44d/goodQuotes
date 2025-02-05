@@ -35,19 +35,11 @@ cd goodQuotes
 python3 quotes.py
 ```
 
-### Via PyPI (Recommended)
+### INSTALL LIB .
 
 ```bash
 # via PyPI
-pip install Pycodz -U
-```
-- Python code Here .
-
-```python
-from Pycodz import Quotes
-object = Quotes()
-get_Quote = object.Quote()
-print(get_Quote)
+pip install cloudscraper 
 ```
 
 ## 💬 Help & Support
