@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" width="100" src="logo.png" />
 
-  <h1 align="center">Github Readme Quotes</h1>
+  <h1 align="center">Good Quotes</h1>
   <h3 align="center">Developer Quotes for your Github Readme.</h3>
 </p>
 
@@ -21,7 +21,6 @@
 </p>
 
 
-- Copy the markdown below and paste it in your Github Readme.
 ## Installation and Development 🚀
 
 ### Via Git ⚡️
