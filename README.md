@@ -27,7 +27,7 @@
 
 ```shell
 # via Git
-git clone https://github.com/goodQuotes.git
+git clone https://github.com/DevZ44d/goodQuotes.git
 
 cd goodQuotes
 
